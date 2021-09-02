@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 #footer{
-    position: absolute;left: 0;bottom: 0;background: #ccc;
+    position: fixed;left: 0;bottom: 0;background: #ccc;
     width: 100%;height: 1rem;
 }
 ul{display: flex;justify-content: space-around;line-height: 49px};

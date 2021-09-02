@@ -35,9 +35,9 @@ import {getMovieComming} from 'api/movie'
 export default {
     name:'movieComming',
     async created(){
-        let data = await getMovieComming();
-        // console.log( data.data.comingList)
-        this.comingList = data.data.comingList
+        // let data = await getMovieComming();
+        // // console.log( data.data.comingList)
+        // this.comingList = data.data.comingList
     },
     data(){
         return {

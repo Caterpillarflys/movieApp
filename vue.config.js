@@ -5,8 +5,10 @@ module.exports = {
         open:true,
         proxy:{
             "/api":{
-                target:"http://39.97.33.178",
-                changOrigin:true
+                // target:"http://39.97.33.178",
+                target:"https://m.maoyan.com",
+                changOrigin:true,
+                pathRewrite:{'^/api':''}
             }
         }
     },

@@ -7,7 +7,7 @@ const http = axios.create({
 
 http.interceptors.request.use((config)=>{
     if(config.method == "get"){
-        // config.params = {...config.dada}
+        config.params = {...config.dada}
     } else if(coonfig.method == "post"){
         config.headers["content-type"] = "application/x-www-form-urlencoded"
     }

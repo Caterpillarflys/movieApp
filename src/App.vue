@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <!-- <HeaderCom/> -->
+      <HeaderCom/>
       <router-view />
       <Footer/>
   </div>
