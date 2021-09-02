@@ -10,6 +10,7 @@ import search from './search'
 
 export default new Router({
     base:'/movie/',
+    mode:'history',
     routes: [
         //根路径的重定向
         {
