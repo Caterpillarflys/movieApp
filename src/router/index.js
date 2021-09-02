@@ -9,6 +9,7 @@ import city from './city'
 import search from './search'
 
 export default new Router({
+    base:'/movie/',
     routes: [
         //根路径的重定向
         {

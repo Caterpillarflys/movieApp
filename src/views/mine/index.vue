@@ -1,7 +1,7 @@
 <template>
-    <div class="">
+    <div>
         <HeaderCom title="我的"/>
-        <div>我的</div>
+        <div class="content">我的</div>
     </div>
 </template>
 
@@ -16,5 +16,7 @@ export default {
 
 
 <style scoped>
-
+.content{
+    padding: 34px 10px;
+}
 </style>

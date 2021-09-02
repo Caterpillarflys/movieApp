@@ -1,7 +1,7 @@
 <template>
-    <div >
+    <div>
         <HeaderCom title="影院"/>
-        <div>影院</div>
+        <div class="content">影院</div>
     </div>
 </template>
 
@@ -16,5 +16,7 @@ export default {
 
 
 <style scoped>
-
+.content{
+    padding: 34px 10px;
+}
 </style>
