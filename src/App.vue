@@ -7,6 +7,7 @@
 </template>
 
 <script>
+111
 import Footer from './common/footer'
 import HeaderCom from './common/header'
 
