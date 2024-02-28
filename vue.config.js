@@ -1,7 +1,7 @@
 const path = require("path")
 
 module.exports = {
-    publicPath:'/movie/',
+    publicPath:'/movieApp/',
     devServer:{
         open:true,
         proxy:{

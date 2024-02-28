@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-f2aab264"],{"20c7":function(t,n,c){},7848:function(t,n,c){"use strict";c.r(n);var e=function(){var t=this,n=t._self._c;return n("div",[n("HeaderCom",{attrs:{title:"影院"}}),n("div",{staticClass:"content"},[t._v("影院")])],1)},a=[],i={name:"cinema"},s=i,u=(c("d392"),c("2877")),o=Object(u["a"])(s,e,a,!1,null,"b9b01db2",null);n["default"]=o.exports},d392:function(t,n,c){"use strict";c("20c7")}}]);
+//# sourceMappingURL=chunk-f2aab264.bcaf4911.js.map
